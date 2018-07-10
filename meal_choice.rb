@@ -7,7 +7,8 @@ end
 def breakfast(food="Frosted Flakes")
   puts "Morning is the best time for #{food}"
 end
-def 
+def lunch(food="grilled cheese")
+  puts ""
 
 
 
