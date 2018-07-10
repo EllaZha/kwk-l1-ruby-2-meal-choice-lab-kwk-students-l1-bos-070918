@@ -9,7 +9,7 @@ def breakfast(food="Frosted Flakes")
 end
 
 def lunch(food="grilled cheese")
-  " Lunch is best with #{food}!"
+  "Lunch is best with #{food}!"
 end
 
 def dinner(food="salmon")
